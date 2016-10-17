@@ -3,7 +3,9 @@
 <head>
 <style>
 <!-- CSS Goes Here -->
-background-color: lightblue;
+body {
+    background-color: lightblue;
+}
 </style>
 <title> Easy Does It</title>
 </head>

@@ -2,8 +2,6 @@
 <html>
 <head>
 
-<title> Easy Does It</title>
-</head>
 <style>
 body {
     background-color: lightblue;
@@ -19,6 +17,8 @@ p {
     font-family: calibri;
     font-size: 20px;
 }
+<title> Easy Does It</title>
+</head>
 </style>
 <body style="background-color:powderblue;">
 <h1>Easy Does It</h1>

@@ -4,6 +4,20 @@
 
 <title> Easy Does It</title>
 </head>
+body {
+    background-color: lightblue;
+
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: calibri;
+    font-size: 20px;
+}
 <body style="background-color:powderblue;">
 <h1>Easy Does It</h1>
 <p>Emergency Services</p>

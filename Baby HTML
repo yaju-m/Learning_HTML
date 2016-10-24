@@ -1,22 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-
-<style>
-body {
-    background-color: lightblue;
-
-}
-
-h1 {
-    color: white;
-    text-align: center;
-}
-
-p {
-    font-family: calibri;
-    font-size: 20px;
-}
 <title> Easy Does It</title>
 </head>
 </style>

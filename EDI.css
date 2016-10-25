@@ -1,0 +1,29 @@
+body {
+
+}
+
+h1 {
+    background-color: rgb(160, 0, 175);
+    color: white;
+    text-align: center;
+    font-size: 16pt;
+    font-family: calibri;
+}
+
+h2 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: calibri;
+    font-size: 20px;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  font-size: 16pt;
+  font-family: calibri;
+  background-color: rgb(160, 0, 175);
+}
